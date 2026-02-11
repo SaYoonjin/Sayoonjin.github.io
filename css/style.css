@@ -9672,3 +9672,11 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.profile-img {
+    width: 280px;          /* 크기 조절 */
+    height: 360px;        /* 증명사진 비율 */
+    object-fit: cover;
+    border-radius: 6px;
+}
+
